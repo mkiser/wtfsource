@@ -1,3 +1,3 @@
-# What The Fuck Just Happened Today
+# What The Fuck Just Happened To This Repo?
 
-Public repository for [https://whatthefuckjusthappenedtoday.com/](http://whatthefuckjusthappenedtoday.com/), a personal project by [@matt_kiser](https://twitter.com/matt_kiser) to log the daily blow by blow of the Trump administration. 
+The public repository for [https://whatthefuckjusthappenedtoday.com/](http://whatthefuckjusthappenedtoday.com/) can now be found at [https://github.com/mkiser/WTFJHT](https://github.com/mkiser/WTFJHT).
